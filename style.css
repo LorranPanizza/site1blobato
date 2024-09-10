@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    
+}
+
+.cabecalho{
+background-color: aquamarine;
+}
+
+.corpo{
+background-color: rgb(255, 255, 255);
+}
+
+.footer{
+background-color: black;
+}
