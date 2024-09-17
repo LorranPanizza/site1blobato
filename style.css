@@ -24,3 +24,20 @@ background-color: black;
 h2{
    text-align: center;
 }
+.boton{
+   position: fixed; 
+   top: 20px;
+   left: 20px;
+   padding: 10px 20px;
+   background-color: rgb(236, 121, 6);
+   color: rgb(126, 108, 108);
+   text-decoration: none;
+   border-radius: 5px;
+}
+
+.boton:hover{
+    background: linear-gradient(to right, #ff30c4,#e46007,#e60606);
+}
+.boton:active{
+    font-size: 15px;
+}
